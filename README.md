@@ -67,10 +67,10 @@ I'm currently focusing on **Bash Shell Scripting**, aiming to automate tasks, ma
 ## 🔗 Let's Connect!
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <a href="www.linkedin.com/in/nabeeha-ali-15111a19b">
+  <a href="https://www.linkedin.com/in/nabeeha-ali-15111a19b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px; margin: 10px;" />
   </a>
-  <a href="mailto:alnabeeha44@gmail.com">
+  <a href="mailto:alinabeeha44@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 10px; margin: 10px;" />
   </a>
   <a href="https://nabeehaali.portfo.ly/">
