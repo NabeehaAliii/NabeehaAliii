@@ -12,9 +12,7 @@ I'm a passionate Computer Science student with a growing interest in **DevOps**,
 - 🌱 I’m currently learning **Bash Shell Scripting**, **Linux**, and **Advanced AWS Services**.
 - 👯 I’m looking to collaborate on DevOps projects, especially in automation and CI/CD workflows.
 - 💬 Ask me about **AWS**, **GitHub Actions**, **S3 Hosting**, and **Automation Pipelines**.
-- - 📫 Reach me via **[Email](mailto:alinabeeha44@gmail.com)**.
   
-
 ---
 
 ### 🌟 Skills & Tools
@@ -75,10 +73,10 @@ I'm currently focusing on **Bash Shell Scripting**, aiming to automate tasks, ma
   <a href="mailto:alnabeeha44@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 10px; margin: 10px;" />
   </a>
+  <a href="https://nabeehaali.portfo.ly/">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" style="border-radius: 10px; margin: 10px;" />
+  </a>
 </div>
-
-
-
 
 ---
 
