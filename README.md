@@ -70,16 +70,43 @@ I'm currently focusing on **Bash Shell Scripting**, aiming to automate tasks, ma
 
 ---
 
-### 📊 GitHub Stats
+## 🛠 Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" alt="Git"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws" alt="AWS"/>
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash" alt="Bash"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux" alt="Linux"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql" alt="MySQL"/>
+</div>
 
-![Nabeeha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NabeehaAliii&show_icons=true&theme=radical)
+
 
 ---
 
-### 🔗 Let's Connect!
+## 📈 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NabeehaAliii&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabeehaAliii&exclude_repo=github-readme-stats,NabeehaAliii.github.io" />
+</div>
 
-- [LinkedIn](https://www.linkedin.com/in/nabeeha-ali-15111a19b/)
-- [Portfolio](https://nabeehaali.portfo.ly/)
+---
+
+## 🔗 Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nabeeha-ali-15111a19b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:alnabeeha44@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+- - 📫 Reach me via **[Email](mailto:alinabeeha44@gmail.com)**.
+
 
 ---
 
