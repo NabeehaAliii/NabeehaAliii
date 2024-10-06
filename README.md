@@ -70,29 +70,34 @@ I'm currently focusing on **Bash Shell Scripting**, aiming to automate tasks, ma
 
 ---
 
-## 🛠 Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" alt="Git"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws" alt="AWS"/>
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash" alt="Bash"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux" alt="Linux"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql" alt="MySQL"/>
-</div>
+<!-- Tech Stack Section -->
+<h2>🔧 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+<hr/>
+
+<!-- GitHub Stats Section -->
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NabeehaAliii&show_icons=true&theme=radical&count_private=true&hide=stars,issues&hide_border=true&border_radius=20" alt="GitHub Stats" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabeehaAliii&layout=compact&theme=radical&hide_border=true&border_radius=20" alt="Top Languages" width="400"/>
+</p>
 
 
-
----
-
-## 📈 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NabeehaAliii&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabeehaAliii&exclude_repo=github-readme-stats,NabeehaAliii.github.io" />
-</div>
-
----
 
 ## 🔗 Let's Connect!
 
