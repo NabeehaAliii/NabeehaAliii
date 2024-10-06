@@ -80,6 +80,5 @@ I'm currently focusing on **Bash Shell Scripting**, aiming to automate tasks, ma
 
 ---
 
-🚧 **Ongoing Projects** 🚧
-- Exploring **Jenkins** for further automation in CI/CD workflows.
-- More Bash scripting and **Terraform** for infrastructure management.
+🚧 **Ongoing Work** 🚧
+- More Bash scripting and integrating it with GitHub Actions for automation.
