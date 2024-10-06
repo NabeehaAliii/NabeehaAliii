@@ -86,18 +86,17 @@ I'm currently focusing on **Bash Shell Scripting**, aiming to automate tasks, ma
 
 <hr/>
 
-<!-- GitHub Stats Section -->
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NabeehaAliii&show_icons=true&theme=radical&count_private=true&hide=stars,issues&hide_border=true&border_radius=20" alt="GitHub Stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NabeehaAliii&show_icons=true&theme=default&count_private=true&hide=stars,issues&hide_border=true&border_radius=20&bg_color=FFFFFF" alt="GitHub Stats" width="500"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabeehaAliii&layout=compact&theme=radical&hide_border=true&border_radius=20" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabeehaAliii&layout=compact&theme=default&hide_border=true&border_radius=20&bg_color=FFFFFF" alt="Top Languages" width="400"/>
 </p>
 
-
+<hr/>
 
 ## 🔗 Let's Connect!
 
