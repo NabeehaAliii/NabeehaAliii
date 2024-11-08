@@ -19,6 +19,7 @@ I'm a passionate Computer Science student with a growing interest in **DevOps**,
 
 #### **DevOps & Cloud Computing:**
 - **AWS Services**: S3, Route 53, CloudFront, EC2, IAM, SSL, VPC
+- **GCP Services** VM, Google Storage, Google SQL, Cloud Run
 - **CI/CD Pipelines**: GitHub Actions
 - **Linux**: Command-line navigation, Bash Shell scripting
 - **Version Control**: Git, GitHub
