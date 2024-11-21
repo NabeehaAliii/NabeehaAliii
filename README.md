@@ -82,4 +82,4 @@ I'm currently focusing on **Bash Shell Scripting**, aiming to automate tasks, ma
 ---
 
 🚧 **Ongoing Work** 🚧
-- More Bash scripting and integrating it with GitHub Actions for automation.
+- Learning Terraform
