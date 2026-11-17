@@ -4,8 +4,7 @@
 
 I build done-for-you call automation for small home care agencies in the US: a phone assistant that answers when the office can't, books the free in-home assessment, logs caregiver call-offs, and sends the owner a summary of every call.
 
-📞 **Hear it answer a call yourself:** the demo line is on [tidewellops.com](https://tidewellops.com)
-🌐 [tidewellops.com](https://tidewellops.com) · 🧮 [Missed-call calculator](https://tidewellops.com/calculator) · 📅 [Book a 15-minute demo](https://tidewellops.com/book)
+📞 **Hear it answer a call yourself:** the demo line is on 🌐 [tidewellops.com](https://tidewellops.com) · 🧮 [Missed-call calculator](https://tidewellops.com/calculator) · 📅 [Book a 15-minute demo](https://tidewellops.com/book)
 
 ---
 
