@@ -1,85 +1,55 @@
-# 👋 Hi, I'm Nabeeha Ali
+# Hi, I'm Nabeeha Ali 👋
 
-🎓 **BSCS Student at Institute of Space Technology (IST), Pakistan | Aspiring DevOps Engineer**
+**Founder of [Tidewell Ops](https://tidewellops.com)** · Automation builder · CS graduate, Institute of Space Technology (IST), Islamabad
 
----
+I build done-for-you call automation for small home care agencies in the US: a phone assistant that answers when the office can't, books the free in-home assessment, logs caregiver call-offs, and sends the owner a summary of every call.
 
-### 🚀 About Me
-
-I'm a passionate Computer Science student with a growing interest in **DevOps**, **Cloud Computing**, and **Automation**. My journey involves mastering tools like AWS, GitHub Actions, and Linux, while constantly bridging the gap between theoretical learning and practical application.
-
-- 🔭 I’m currently working on **Cloud Computing Projects** including AWS-based CI/CD pipelines and automated deployments.
-- 🌱 I’m currently learning **Bash Shell Scripting**, **Linux**, and **Advanced AWS Services**.
-- 👯 I’m looking to collaborate on DevOps projects, especially in automation and CI/CD workflows.
-- 💬 Ask me about **AWS**, **GitHub Actions**, **S3 Hosting**, and **Automation Pipelines**.
-  
----
-
-### 🌟 Skills & Tools
-
-#### **DevOps & Cloud Computing:**
-- **AWS Services**: S3, Route 53, CloudFront, EC2, IAM, SSL, VPC
-- **GCP Services** VM, Google Storage, Google SQL, Cloud Run
-- **CI/CD Pipelines**: GitHub Actions
-- **Linux**: Command-line navigation, Bash Shell scripting
-- **Version Control**: Git, GitHub
-- **Frontend Development**: HTML, CSS, JavaScript, React.js, Tailwind.css (from my web development experience)
----
- 
- <hr/>
- 
-### 🔧 Ongoing Work: Bash Shell Scripting
-
-I'm currently focusing on **Bash Shell Scripting**, aiming to automate tasks, manage systems, and improve overall efficiency in DevOps workflows. Some of the tasks I’m automating include:
-- **System Monitoring**: Automating system health checks using Bash scripts.
-- **CI/CD Pipeline Integration**: Integrating Bash scripts with GitHub Actions to streamline builds and deployments.
-- **Task Automation**: Automating repetitive tasks like file backups and log management.
-
----
-<hr/>
-
-<!-- Tech Stack Section -->
-<h2>🔧 Tech Stack</h2>
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="border-radius: 10px; margin: 10px;"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 10px; margin: 10px;"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="border-radius: 10px; margin: 10px;"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" style="border-radius: 10px; margin: 10px;"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="border-radius: 10px; margin: 10px;"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" style="border-radius: 10px; margin: 10px;"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="border-radius: 10px; margin: 10px;"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="border-radius: 10px; margin: 10px;"/>
-</div>
-
-<hr/>
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NabeehaAliii&show_icons=true&theme=default&count_private=true&hide=stars,issues&hide_border=true&border_radius=20&bg_color=FFFFFF" alt="GitHub Stats" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabeehaAliii&layout=compact&theme=default&hide_border=true&border_radius=20&bg_color=FFFFFF" alt="Top Languages" width="400"/>
-</p>
-
-<hr/>
-
-## 🔗 Let's Connect!
-
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <a href="https://www.linkedin.com/in/nabeeha-ali-15111a19b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px; margin: 10px;" />
-  </a>
-  <a href="mailto:alinabeeha44@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 10px; margin: 10px;" />
-  </a>
-  <a href="https://nabeehaali.portfo.ly/">
-    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" style="border-radius: 10px; margin: 10px;" />
-  </a>
-</div>
+📞 **Hear it answer a call yourself:** (727) 609-3016 (a sample agency, "Bayview Home Care")
+🌐 [tidewellops.com](https://tidewellops.com) · 🧮 [Missed-call calculator](https://tidewellops.com/calculator) · 📅 [Book a 15-minute demo](https://tidewellops.com/book)
 
 ---
 
-🚧 **Ongoing Work** 🚧
-- Learning Terraform
+## 🛠️ What I'm building
+
+| System | What it does | Built with |
+|---|---|---|
+| **Voice assistant ("Grace")** | Answers calls in the agency's name, says it's automated, books visits, handles call-offs and urgent calls | Retell, Cal.com |
+| **After-call summary** | After every call: a row in the call log, an email to the owner, and a separate alert to the scheduler for call-offs | n8n, Google Sheets, SMTP |
+| **Lead finder** | Finds independent agencies by city, filters out franchises and duplicates | n8n, Google Places API |
+| **Website + calculator** | Business site and a missed-call cost calculator, no tracking scripts | HTML/CSS/JS, Cloudflare Pages |
+
+## 🧭 Coming next
+
+Every agency is different, so each system is built around the agency's services, hours, calendar and team. On the roadmap:
+
+- **Missed-call text-back:** an instant text to anyone the office misses
+- **Weekly report:** calls answered, families captured, visits booked
+- **Caregiver applicant screening:** answer job inquiries and book interviews
+- **Scheduling software integration:** send call-offs and new clients straight into tools like AxisCare or WellSky
+- **Website and WhatsApp chat:** the same help for families who'd rather type than call
+- **Review requests:** a gentle ask for a review after a good first month
+
+## ⚙️ How it's run
+
+- **Self-hosted n8n** on Google Cloud, behind a Cloudflare Tunnel with Cloudflare Access login
+- **Webhook security:** only accepts call data from the voice platform's own servers
+- **Secrets stay out of code:** API keys live in n8n credentials, never in workflows or repos
+- **Privacy first:** collect only what's needed to book or route a call
+
+## 🧰 Tools I use
+
+**Automation & AI**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Retell](https://img.shields.io/badge/Retell-111827?style=for-the-badge) ![Cal.com](https://img.shields.io/badge/Cal.com-292929?style=for-the-badge&logo=caldotcom&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) ![Google Places API](https://img.shields.io/badge/Google%20Places%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+**Cloud & DevOps**
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+📫 [nabeeha@tidewellops.com](mailto:nabeeha@tidewellops.com) · [LinkedIn](https://www.linkedin.com/in/nabeeha-ali-15111a19b/)
